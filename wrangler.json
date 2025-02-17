@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "tiny-star-5b56",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "affc576a-5a7a-45cb-a275-e48159074468",
+      "database_name": "tiny-star-5b56-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
